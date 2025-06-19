@@ -1,11 +1,11 @@
 # 🚀 3D Interactive Portfolio | Diandra Firza
 
 <div align="center">
-  <img src="URL_SCREENSHOT_ATAU_GIF_KEREN.gif" alt="Portfolio Demo" width="80%">
+  <img src="/preview.png" alt="Portfolio Demo" width="80%">
 </div>
 
 <p align="center">
-  <a href="https://LINK-GITHUB-PAGES-LO.github.io/NAMA-REPO-LO/" target="_blank">✨ **Lihat Live Demo** ✨</a>
+  <a href="Firza-CosmicPortofolio.vercel.app" target="_blank">✨ **Lihat Live Demo** ✨</a>
 </p>
 
 ## 🌌 Tentang Proyek Ini
@@ -35,12 +35,12 @@ Lo mau coba jalanin proyek ini di komputer lo? Gampang!
 
 1.  **Clone repository ini:**
     ```bash
-    git clone [https://github.com/NAMA_USER_GITHUB_LO/NAMA_REPO_LO.git](https://github.com/NAMA_USER_GITHUB_LO/NAMA_REPO_LO.git)
+    git clone [https://github.com/DiandraFrza/3D-Interactive-Portfolio.git](https://github.com/DiandraFrza/3D-Interactive-Portfolio.git)
     ```
 
 2.  **Masuk ke direktori proyek:**
     ```bash
-    cd NAMA_REPO_LO
+    cd 3D-Interactive-Portfolio
     ```
 
 3.  **Buka dengan Live Server (PENTING!):**
