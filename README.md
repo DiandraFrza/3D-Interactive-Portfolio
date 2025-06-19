@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="Firza-CosmicPortofolio.vercel.app" target="_blank">✨ **Lihat Live Demo** ✨</a>
+  <a href="Firza-CosmicPortofolio.vercel.app" target="Firza-CosmicPortofolio.vercel.app">✨ Lihat Live Demo ✨</a>
 </p>
 
 ## 🌌 Tentang Proyek Ini
